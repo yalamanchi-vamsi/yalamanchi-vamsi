@@ -2,7 +2,7 @@
 
 👀 I’m interested in:
 
-Full-stack development
+Full-stack development                                                                                                                                                                                                
 Cloud computing with AWS
 Data science and machine learning
 🌱 I’m currently learning:
