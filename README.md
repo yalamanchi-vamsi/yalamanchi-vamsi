@@ -25,9 +25,10 @@ Data analysis and visualization projects
 
 📫 How to reach me:
 
-LinkedIn
+LinkedIn: http://www.linkedin.com/in/yalamanchi-vamsi-krishna-2b0804249
 
 Email: vvamsi067@gmail.com
+
 😄 Pronouns:
 
 He/Him
